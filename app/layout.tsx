@@ -8,10 +8,10 @@ const prompt = Prompt({
 });
 
 export const metadata: Metadata = {
-  title: "American Share by Sakkarin Beer DTI SAU",
+  title: "American Share by Donpisit DTI SAU",
   description: "เว็บคำนวณเงินที่ต้องแชร์กัน",
   keywords: ["แชร์เงิน", "คำนวณเงิน", "แชร์กัน", "คำนวณแชร์"],
-  authors: [{ name: "Sakkarin Beer DTI SAU", url: "https://github.com/Sakka11" }],
+  authors: [{ name: "Donpisit DTI SAU", url: "https://github.com/Fedom47" }],
 };
 
 export default function RootLayout({
