@@ -7,12 +7,12 @@ export default function Footer() {
         <br />
         Made with ❤️ by{" "}
         <a
-          href="https://github.com/Sakka11"
+          href="https://github.com/Fedom47"
           target="_blank"
           rel="noopener noreferrer"
           className="font-medium text-blue-600 cursor-pointer hover:text-blue-800 hover:underline transition-colors duration-200"
         >
-          Sakkarin Beer DTI SAU
+          Donpisit DTI SAU
         </a>
         .
     </div>
